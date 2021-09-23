@@ -1,11 +1,16 @@
 _repo: Antony-van-Leeuwenhoek-De-ontdekker-der-infusorien-1675-1875_66297
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66297-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Haaxman, P. J.
     gutenberg_agent_id: '53736'
     url: http://www.gutenberg.org/2009/agents/53736
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66297#Antony-van-Leeuwenhoek-De-ontdekker-der-infusorien-1675-1875
 gutenberg_issued: '2021-09-14'
 identifiers:
   gutenberg: '66297'
